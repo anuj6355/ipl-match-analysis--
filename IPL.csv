@@ -1,0 +1,1501 @@
+match_id,season,batting_team,match_won_by,batter,runs_batter,bowler,bowler_wicket,runs_total
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,2,Ravichandran Ashwin,0,3
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Ravichandran Ashwin,0,3
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Amit Mishra,1,2
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Amit Mishra,0,5
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Lasith Malinga,0,2
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,6,Lasith Malinga,0,4
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Lasith Malinga,0,1
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,6,Amit Mishra,0,2
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Yuzvendra Chahal,0,7
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Ravichandran Ashwin,0,3
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Yuzvendra Chahal,0,2
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Yuzvendra Chahal,0,5
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,2,Yuzvendra Chahal,0,4
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,2,Amit Mishra,0,5
+1,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,1
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Ravichandran Ashwin,0,7
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,2,Amit Mishra,0,7
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Lasith Malinga,0,3
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,6,Yuzvendra Chahal,0,7
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Yuzvendra Chahal,0,7
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,6
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Lasith Malinga,0,6
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,2,Yuzvendra Chahal,0,6
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,5
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Jasprit Bumrah,0,4
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Ravichandran Ashwin,0,5
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,6,Lasith Malinga,0,4
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,4
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Amit Mishra,0,3
+2,2022,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Jasprit Bumrah,0,1
+3,2019,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,4,Jasprit Bumrah,0,6
+3,2019,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,1,Ravichandran Ashwin,0,2
+3,2019,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,0,Lasith Malinga,0,1
+3,2019,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,1,Jasprit Bumrah,0,4
+3,2019,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,1
+3,2019,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,0,Yuzvendra Chahal,0,6
+3,2019,Mumbai Indians,Kolkata Knight Riders,Shikhar Dhawan,1,Jasprit Bumrah,0,2
+3,2019,Mumbai Indians,Kolkata Knight Riders,Shikhar Dhawan,1,Amit Mishra,0,3
+3,2019,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,2,Ravichandran Ashwin,0,6
+3,2019,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,1,Jasprit Bumrah,0,3
+3,2019,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,3
+3,2019,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,0,Lasith Malinga,0,4
+3,2019,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,6,Yuzvendra Chahal,0,3
+3,2019,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,2,Yuzvendra Chahal,1,6
+3,2019,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,1
+4,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,0,Amit Mishra,0,3
+4,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,0,Lasith Malinga,0,3
+4,2022,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,4,Jasprit Bumrah,0,3
+4,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,0,Amit Mishra,0,6
+4,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,6
+4,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Lasith Malinga,0,1
+4,2022,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,2,Jasprit Bumrah,0,4
+4,2022,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Jasprit Bumrah,0,3
+4,2022,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,3
+4,2022,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,2,Jasprit Bumrah,0,1
+4,2022,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,0,Lasith Malinga,0,1
+4,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,6,Ravichandran Ashwin,0,6
+4,2022,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,2,Ravichandran Ashwin,1,1
+4,2022,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,6,Lasith Malinga,1,4
+4,2022,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,1,Jasprit Bumrah,0,2
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,6,Yuzvendra Chahal,0,6
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,0,Yuzvendra Chahal,0,1
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,0,Ravichandran Ashwin,0,2
+5,2019,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,0,Ravichandran Ashwin,0,7
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,1,Amit Mishra,0,6
+5,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,4,Amit Mishra,0,7
+5,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,1,Yuzvendra Chahal,0,5
+5,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,1,Jasprit Bumrah,0,6
+5,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,1,Ravichandran Ashwin,0,5
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Suresh Raina,0,Ravichandran Ashwin,0,6
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Shikhar Dhawan,0,Lasith Malinga,0,4
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Shikhar Dhawan,6,Yuzvendra Chahal,0,1
+5,2019,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,5
+5,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,4,Jasprit Bumrah,0,1
+5,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,4,Yuzvendra Chahal,0,6
+6,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Ravichandran Ashwin,0,7
+6,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Lasith Malinga,0,3
+6,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+6,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Amit Mishra,0,2
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Amit Mishra,0,6
+6,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Yuzvendra Chahal,1,4
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Yuzvendra Chahal,0,2
+6,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,7
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Lasith Malinga,0,4
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Jasprit Bumrah,0,3
+6,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Lasith Malinga,0,2
+6,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Ravichandran Ashwin,0,6
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Yuzvendra Chahal,0,1
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Yuzvendra Chahal,0,6
+6,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Amit Mishra,0,2
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,1,Ravichandran Ashwin,0,2
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,2,Lasith Malinga,1,4
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,0,Ravichandran Ashwin,0,7
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,2,Lasith Malinga,0,1
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,1,Jasprit Bumrah,0,3
+7,2019,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,1,Amit Mishra,1,3
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,1,Amit Mishra,1,4
+7,2019,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,4
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,7
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0,Ravichandran Ashwin,0,7
+7,2019,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,1,Ravichandran Ashwin,0,5
+7,2019,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,2,Amit Mishra,0,2
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,4,Ravichandran Ashwin,0,1
+7,2019,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,4,Yuzvendra Chahal,0,5
+7,2019,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,6,Ravichandran Ashwin,0,4
+8,2019,Mumbai Indians,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,6
+8,2019,Mumbai Indians,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,3
+8,2019,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,0,Amit Mishra,0,4
+8,2019,Mumbai Indians,Chennai Super Kings,Suresh Raina,2,Jasprit Bumrah,0,3
+8,2019,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,0,Jasprit Bumrah,0,1
+8,2019,Mumbai Indians,Chennai Super Kings,Virat Kohli,4,Ravichandran Ashwin,1,4
+8,2019,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,6,Ravichandran Ashwin,0,6
+8,2019,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,6,Ravichandran Ashwin,0,3
+8,2019,Mumbai Indians,Chennai Super Kings,Suresh Raina,0,Jasprit Bumrah,0,7
+8,2019,Mumbai Indians,Chennai Super Kings,Virat Kohli,1,Lasith Malinga,1,1
+8,2019,Mumbai Indians,Chennai Super Kings,MS Dhoni,0,Amit Mishra,0,5
+8,2019,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0,Yuzvendra Chahal,0,4
+8,2019,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,1,3
+8,2019,Mumbai Indians,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,4
+8,2019,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,1,Ravichandran Ashwin,0,3
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Shikhar Dhawan,1,Yuzvendra Chahal,0,6
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,1,Ravichandran Ashwin,0,1
+9,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,4,Jasprit Bumrah,0,2
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,6,Lasith Malinga,0,1
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,0,Jasprit Bumrah,0,7
+9,2019,Chennai Super Kings,Kolkata Knight Riders,AB de Villiers,1,Ravichandran Ashwin,1,6
+9,2019,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,1,Ravichandran Ashwin,0,2
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,1,Ravichandran Ashwin,0,6
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,6,Ravichandran Ashwin,0,1
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,2,Yuzvendra Chahal,0,7
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,4
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,1,Ravichandran Ashwin,0,3
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Virat Kohli,1,Ravichandran Ashwin,0,2
+9,2019,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,0,Amit Mishra,1,2
+9,2019,Chennai Super Kings,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,2
+10,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Yuzvendra Chahal,0,5
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Jasprit Bumrah,0,4
+10,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Yuzvendra Chahal,0,2
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Lasith Malinga,0,3
+10,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Lasith Malinga,0,4
+10,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Lasith Malinga,0,3
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,6,Ravichandran Ashwin,0,3
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Amit Mishra,0,6
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Ravichandran Ashwin,0,2
+10,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Yuzvendra Chahal,0,1
+10,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,2,Jasprit Bumrah,0,6
+10,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Ravichandran Ashwin,0,4
+10,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Lasith Malinga,0,7
+10,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Amit Mishra,0,2
+10,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Lasith Malinga,0,7
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,4,Lasith Malinga,0,1
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,0,Jasprit Bumrah,0,6
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,4
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,1,Lasith Malinga,0,2
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,1
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,4
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,5
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,1,Jasprit Bumrah,0,5
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,1,Amit Mishra,0,6
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,4,Jasprit Bumrah,0,3
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,6,Yuzvendra Chahal,0,3
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,6
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,4,Yuzvendra Chahal,0,2
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,4,Ravichandran Ashwin,0,6
+11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,1,Jasprit Bumrah,0,4
+12,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,1,5
+12,2021,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,0,5
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6,Ravichandran Ashwin,0,4
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Jasprit Bumrah,0,3
+12,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,1,Jasprit Bumrah,0,4
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,1
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0,Lasith Malinga,1,6
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Suresh Raina,4,Lasith Malinga,0,6
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Suresh Raina,0,Ravichandran Ashwin,0,3
+12,2021,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,1,Amit Mishra,0,2
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,1
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Jasprit Bumrah,0,2
+12,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,0,Lasith Malinga,0,6
+12,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,4
+12,2021,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,1,Lasith Malinga,0,6
+13,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,2,Amit Mishra,0,2
+13,2019,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Jasprit Bumrah,0,5
+13,2019,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,5
+13,2019,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Amit Mishra,0,2
+13,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Lasith Malinga,0,2
+13,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Amit Mishra,0,2
+13,2019,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Yuzvendra Chahal,1,4
+13,2019,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Yuzvendra Chahal,0,7
+13,2019,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,4
+13,2019,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,6,Yuzvendra Chahal,0,7
+13,2019,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Lasith Malinga,0,1
+13,2019,Mumbai Indians,Mumbai Indians,AB de Villiers,4,Jasprit Bumrah,0,5
+13,2019,Mumbai Indians,Mumbai Indians,Rohit Sharma,4,Jasprit Bumrah,0,6
+13,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,5
+13,2019,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Jasprit Bumrah,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,6,Yuzvendra Chahal,0,3
+14,2021,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Lasith Malinga,0,3
+14,2021,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,0,Amit Mishra,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,2,Lasith Malinga,0,4
+14,2021,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Jasprit Bumrah,1,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Lasith Malinga,0,3
+14,2021,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,0,Ravichandran Ashwin,0,5
+14,2021,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,4,Lasith Malinga,0,6
+14,2021,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Yuzvendra Chahal,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Lasith Malinga,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,0,Lasith Malinga,0,2
+14,2021,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Amit Mishra,0,7
+14,2021,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,4,Ravichandran Ashwin,0,1
+14,2021,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,0,Lasith Malinga,0,6
+15,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Yuzvendra Chahal,0,6
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Amit Mishra,1,6
+15,2019,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,7
+15,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,3
+15,2019,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Yuzvendra Chahal,0,7
+15,2019,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,3
+15,2019,Delhi Capitals,Delhi Capitals,Suresh Raina,4,Ravichandran Ashwin,0,6
+15,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Amit Mishra,0,2
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,2,Jasprit Bumrah,0,3
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Jasprit Bumrah,0,1
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,2,Yuzvendra Chahal,0,7
+15,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,2
+15,2019,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Yuzvendra Chahal,0,3
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Ravichandran Ashwin,0,1
+15,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,2
+16,2022,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,0,Lasith Malinga,0,4
+16,2022,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,1,2
+16,2022,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,2
+16,2022,Delhi Capitals,Chennai Super Kings,Suresh Raina,6,Jasprit Bumrah,0,4
+16,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,0,Ravichandran Ashwin,0,3
+16,2022,Delhi Capitals,Chennai Super Kings,Suresh Raina,2,Lasith Malinga,1,7
+16,2022,Delhi Capitals,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,7
+16,2022,Delhi Capitals,Chennai Super Kings,Suresh Raina,0,Amit Mishra,0,6
+16,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Yuzvendra Chahal,0,2
+16,2022,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+16,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Jasprit Bumrah,0,3
+16,2022,Delhi Capitals,Chennai Super Kings,Rohit Sharma,2,Amit Mishra,1,6
+16,2022,Delhi Capitals,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,0,3
+16,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Yuzvendra Chahal,0,1
+16,2022,Delhi Capitals,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,5
+17,2019,Delhi Capitals,Chennai Super Kings,AB de Villiers,6,Yuzvendra Chahal,0,7
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,6,Ravichandran Ashwin,0,2
+17,2019,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Ravichandran Ashwin,0,7
+17,2019,Delhi Capitals,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,2
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,6,Yuzvendra Chahal,0,4
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Yuzvendra Chahal,0,6
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Ravichandran Ashwin,0,5
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Amit Mishra,0,1
+17,2019,Delhi Capitals,Chennai Super Kings,Suresh Raina,2,Jasprit Bumrah,0,1
+17,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,2
+17,2019,Delhi Capitals,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,0,3
+17,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,6,Amit Mishra,0,1
+17,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,0,Amit Mishra,0,4
+17,2019,Delhi Capitals,Chennai Super Kings,Virat Kohli,2,Jasprit Bumrah,0,4
+17,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,2,Jasprit Bumrah,0,6
+18,2022,Chennai Super Kings,Delhi Capitals,AB de Villiers,1,Jasprit Bumrah,1,7
+18,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,0,Jasprit Bumrah,0,4
+18,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,6,Ravichandran Ashwin,0,4
+18,2022,Chennai Super Kings,Delhi Capitals,AB de Villiers,6,Lasith Malinga,1,2
+18,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,2,Amit Mishra,0,4
+18,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Ravichandran Ashwin,0,6
+18,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,0,Jasprit Bumrah,0,1
+18,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,2,Ravichandran Ashwin,0,7
+18,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,1,Amit Mishra,1,5
+18,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,1
+18,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,4,Ravichandran Ashwin,0,7
+18,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,1,Ravichandran Ashwin,0,1
+18,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,0,Ravichandran Ashwin,0,1
+18,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,4,Jasprit Bumrah,0,1
+18,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,2,Yuzvendra Chahal,0,7
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1,Ravichandran Ashwin,0,5
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,0,Jasprit Bumrah,0,5
+19,2020,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,1,Yuzvendra Chahal,0,2
+19,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,4,Jasprit Bumrah,0,3
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,4,Lasith Malinga,0,5
+19,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,0,Ravichandran Ashwin,0,7
+19,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,2,Ravichandran Ashwin,0,2
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0,Yuzvendra Chahal,0,3
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,2,Yuzvendra Chahal,0,6
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,1,Yuzvendra Chahal,0,6
+19,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,6,Jasprit Bumrah,0,2
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,0,Ravichandran Ashwin,0,6
+19,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,2,Yuzvendra Chahal,0,2
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,1,Ravichandran Ashwin,0,4
+19,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,1,Yuzvendra Chahal,1,1
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Lasith Malinga,0,6
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,1,Lasith Malinga,0,5
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Suresh Raina,0,Lasith Malinga,0,7
+20,2022,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,0,Yuzvendra Chahal,0,2
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,6,Lasith Malinga,0,7
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,1,Amit Mishra,0,7
+20,2022,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,0,Lasith Malinga,0,1
+20,2022,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,0,Amit Mishra,0,7
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,1,Lasith Malinga,0,3
+20,2022,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,1,Amit Mishra,0,2
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,0,Jasprit Bumrah,0,4
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,4,Lasith Malinga,1,6
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,4,Ravichandran Ashwin,0,3
+20,2022,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,4
+20,2022,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,4,Yuzvendra Chahal,0,6
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,1,Amit Mishra,0,6
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Ravichandran Ashwin,0,3
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,0,Ravichandran Ashwin,0,2
+21,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,6,Lasith Malinga,0,1
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Suresh Raina,2,Lasith Malinga,0,1
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Amit Mishra,0,2
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,1,Yuzvendra Chahal,0,1
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,0,Ravichandran Ashwin,0,6
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6,Yuzvendra Chahal,0,2
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0,Amit Mishra,0,3
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Shikhar Dhawan,2,Jasprit Bumrah,1,7
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,2,Yuzvendra Chahal,0,4
+21,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,4
+21,2021,Mumbai Indians,Royal Challengers Bangalore,AB de Villiers,4,Yuzvendra Chahal,0,7
+21,2021,Mumbai Indians,Royal Challengers Bangalore,Virat Kohli,0,Lasith Malinga,0,4
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Lasith Malinga,1,4
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,3
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,5
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Amit Mishra,0,3
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Jasprit Bumrah,0,1
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,6,Yuzvendra Chahal,0,4
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Amit Mishra,0,4
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,4,Jasprit Bumrah,0,5
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Yuzvendra Chahal,0,4
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,6
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Amit Mishra,1,7
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Yuzvendra Chahal,0,5
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Amit Mishra,0,6
+22,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Jasprit Bumrah,0,1
+23,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Amit Mishra,0,5
+23,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,4,Yuzvendra Chahal,0,4
+23,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Ravichandran Ashwin,0,3
+23,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,2,Amit Mishra,0,3
+23,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Amit Mishra,0,1
+23,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Amit Mishra,0,4
+23,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,6,Jasprit Bumrah,0,4
+23,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Lasith Malinga,0,5
+23,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Jasprit Bumrah,0,4
+23,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Yuzvendra Chahal,1,3
+23,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Yuzvendra Chahal,1,7
+23,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Amit Mishra,0,7
+23,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,7
+23,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,0,5
+23,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,2
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,1,Jasprit Bumrah,0,1
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,4,Jasprit Bumrah,0,6
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,1,Jasprit Bumrah,0,4
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,6,Jasprit Bumrah,0,1
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,2,Ravichandran Ashwin,0,3
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Amit Mishra,0,6
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,2,Jasprit Bumrah,0,5
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,1,Jasprit Bumrah,0,1
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,5
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,1,Jasprit Bumrah,0,6
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,1,Yuzvendra Chahal,0,1
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,0,5
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,1,Amit Mishra,0,5
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,6
+24,2021,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,2,Lasith Malinga,0,5
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,4,Jasprit Bumrah,0,3
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,6,Lasith Malinga,0,5
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,0,Amit Mishra,0,5
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,2
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,6
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,0,Amit Mishra,0,5
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,1,Yuzvendra Chahal,1,4
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,5
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,0,Ravichandran Ashwin,0,6
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,4,Jasprit Bumrah,0,7
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,0,Jasprit Bumrah,0,1
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,3
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,3
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,0,Yuzvendra Chahal,0,1
+25,2021,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,4,Jasprit Bumrah,0,1
+26,2020,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Lasith Malinga,0,6
+26,2020,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Jasprit Bumrah,1,3
+26,2020,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,7
+26,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Amit Mishra,0,4
+26,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,5
+26,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Jasprit Bumrah,0,3
+26,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,4
+26,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,5
+26,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Lasith Malinga,0,5
+26,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Yuzvendra Chahal,1,2
+26,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Yuzvendra Chahal,0,4
+26,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Amit Mishra,1,5
+26,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Yuzvendra Chahal,0,1
+26,2020,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Amit Mishra,1,3
+26,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Amit Mishra,1,6
+27,2019,Kolkata Knight Riders,Delhi Capitals,Suresh Raina,0,Ravichandran Ashwin,0,6
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,2,Jasprit Bumrah,0,4
+27,2019,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,1
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,1,Jasprit Bumrah,0,3
+27,2019,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,1,Lasith Malinga,0,6
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,1,Lasith Malinga,0,7
+27,2019,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,7
+27,2019,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,0,Yuzvendra Chahal,0,6
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,4,Lasith Malinga,0,4
+27,2019,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,3
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,0,Amit Mishra,0,2
+27,2019,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,1,Ravichandran Ashwin,0,4
+27,2019,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,3
+27,2019,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,4,Ravichandran Ashwin,0,5
+27,2019,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,4
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,4,Ravichandran Ashwin,0,6
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Yuzvendra Chahal,0,3
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,2
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,6,Ravichandran Ashwin,0,7
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Jasprit Bumrah,0,1
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Lasith Malinga,0,4
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Jasprit Bumrah,0,4
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Amit Mishra,0,7
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,5
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Amit Mishra,0,7
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Ravichandran Ashwin,0,2
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Ravichandran Ashwin,0,2
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,1,4
+28,2022,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Amit Mishra,0,5
+29,2022,Delhi Capitals,Chennai Super Kings,Suresh Raina,4,Amit Mishra,0,3
+29,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Ravichandran Ashwin,0,5
+29,2022,Delhi Capitals,Chennai Super Kings,Rohit Sharma,4,Jasprit Bumrah,0,1
+29,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Amit Mishra,0,1
+29,2022,Delhi Capitals,Chennai Super Kings,Rohit Sharma,6,Amit Mishra,0,4
+29,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,1
+29,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Ravichandran Ashwin,0,4
+29,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Ravichandran Ashwin,0,7
+29,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,1
+29,2022,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,4
+29,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,6,Lasith Malinga,0,4
+29,2022,Delhi Capitals,Chennai Super Kings,MS Dhoni,0,Ravichandran Ashwin,0,6
+29,2022,Delhi Capitals,Chennai Super Kings,Rohit Sharma,0,Amit Mishra,0,1
+29,2022,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,4
+29,2022,Delhi Capitals,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,2
+30,2021,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Yuzvendra Chahal,0,5
+30,2021,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Yuzvendra Chahal,0,2
+30,2021,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Lasith Malinga,0,2
+30,2021,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Amit Mishra,0,5
+30,2021,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Jasprit Bumrah,0,3
+30,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Jasprit Bumrah,0,7
+30,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,1,6
+30,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,2,Amit Mishra,0,6
+30,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Amit Mishra,0,2
+30,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Amit Mishra,0,7
+30,2021,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Amit Mishra,0,3
+30,2021,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,3
+30,2021,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Amit Mishra,0,5
+30,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Jasprit Bumrah,0,3
+30,2021,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Lasith Malinga,0,2
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,2,Lasith Malinga,0,1
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,1,Amit Mishra,0,2
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,0,Jasprit Bumrah,0,1
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,2,Amit Mishra,0,3
+31,2020,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,4,Ravichandran Ashwin,0,7
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,1,Yuzvendra Chahal,0,3
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1,Ravichandran Ashwin,0,7
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,0,Amit Mishra,0,5
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,3
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,1,Amit Mishra,0,6
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Rohit Sharma,1,Lasith Malinga,0,4
+31,2020,Royal Challengers Bangalore,Mumbai Indians,MS Dhoni,1,Lasith Malinga,0,5
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,2,Ravichandran Ashwin,0,3
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Shikhar Dhawan,0,Jasprit Bumrah,0,2
+31,2020,Royal Challengers Bangalore,Mumbai Indians,Suresh Raina,0,Amit Mishra,0,3
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Amit Mishra,0,7
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Amit Mishra,0,1
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,2
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Lasith Malinga,0,6
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Jasprit Bumrah,1,3
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Lasith Malinga,0,3
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,4,Ravichandran Ashwin,0,5
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,6,Amit Mishra,0,4
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,2,Yuzvendra Chahal,1,1
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,2,Amit Mishra,0,1
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Amit Mishra,0,4
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,7
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,2,Yuzvendra Chahal,0,6
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,4,Amit Mishra,0,4
+32,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Yuzvendra Chahal,0,5
+33,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,4,Yuzvendra Chahal,0,3
+33,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Ravichandran Ashwin,0,4
+33,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,2,Yuzvendra Chahal,1,5
+33,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,2,Ravichandran Ashwin,0,3
+33,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,6,Amit Mishra,0,1
+33,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Amit Mishra,0,1
+33,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Jasprit Bumrah,1,5
+33,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,6
+33,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,5
+33,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,6,Jasprit Bumrah,0,2
+33,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Amit Mishra,0,6
+33,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,7
+33,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Ravichandran Ashwin,0,7
+33,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,2,Ravichandran Ashwin,0,4
+33,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Ravichandran Ashwin,0,2
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Lasith Malinga,1,1
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,3
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,1,4
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Amit Mishra,0,4
+34,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,6
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Amit Mishra,0,2
+34,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,6
+34,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Ravichandran Ashwin,0,3
+34,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,4
+34,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Jasprit Bumrah,0,7
+34,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Ravichandran Ashwin,0,4
+34,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Lasith Malinga,0,3
+34,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,4
+34,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,1,4
+34,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Yuzvendra Chahal,0,4
+35,2022,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,1,Ravichandran Ashwin,0,6
+35,2022,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,4,Yuzvendra Chahal,0,4
+35,2022,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,0,Ravichandran Ashwin,0,2
+35,2022,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,2,Yuzvendra Chahal,0,1
+35,2022,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,2,Amit Mishra,0,7
+35,2022,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,1,Amit Mishra,0,2
+35,2022,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,1,Amit Mishra,0,6
+35,2022,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,1,Jasprit Bumrah,0,7
+35,2022,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,1,Jasprit Bumrah,0,7
+35,2022,Mumbai Indians,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,4
+35,2022,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,4,Jasprit Bumrah,0,3
+35,2022,Mumbai Indians,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,6
+35,2022,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,0,Lasith Malinga,0,6
+35,2022,Mumbai Indians,Kolkata Knight Riders,AB de Villiers,0,Ravichandran Ashwin,0,3
+35,2022,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,6,Lasith Malinga,0,1
+36,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,4,Lasith Malinga,1,3
+36,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,7
+36,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,2,Lasith Malinga,0,1
+36,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Amit Mishra,0,6
+36,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,1
+36,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,1
+36,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,2,Jasprit Bumrah,0,4
+36,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,4,Jasprit Bumrah,0,6
+36,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,6,Ravichandran Ashwin,0,6
+36,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Yuzvendra Chahal,0,5
+36,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Ravichandran Ashwin,0,1
+36,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Ravichandran Ashwin,0,3
+36,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Jasprit Bumrah,0,7
+36,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,4,Jasprit Bumrah,0,4
+36,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Ravichandran Ashwin,0,4
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,0,Amit Mishra,0,6
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,6,Yuzvendra Chahal,0,1
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,0,Jasprit Bumrah,0,5
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,4
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Rohit Sharma,6,Ravichandran Ashwin,0,3
+37,2019,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,1
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,1,Jasprit Bumrah,0,6
+37,2019,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,4,Jasprit Bumrah,0,5
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,1,Yuzvendra Chahal,0,6
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,1,Ravichandran Ashwin,0,1
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,1,Jasprit Bumrah,0,3
+37,2019,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,6,Ravichandran Ashwin,1,5
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,5
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+37,2019,Delhi Capitals,Royal Challengers Bangalore,Rohit Sharma,6,Yuzvendra Chahal,0,1
+38,2021,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Yuzvendra Chahal,0,4
+38,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Amit Mishra,0,3
+38,2021,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,2
+38,2021,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,1
+38,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Lasith Malinga,0,6
+38,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,0,Jasprit Bumrah,0,4
+38,2021,Delhi Capitals,Delhi Capitals,MS Dhoni,2,Lasith Malinga,0,5
+38,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Yuzvendra Chahal,0,6
+38,2021,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Jasprit Bumrah,0,7
+38,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Jasprit Bumrah,0,1
+38,2021,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Ravichandran Ashwin,0,2
+38,2021,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,2
+38,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Yuzvendra Chahal,0,3
+38,2021,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,3
+38,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,7
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,4
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Amit Mishra,0,3
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Lasith Malinga,0,1
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Ravichandran Ashwin,0,4
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Amit Mishra,0,2
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Lasith Malinga,0,5
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Lasith Malinga,0,2
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Lasith Malinga,0,5
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Yuzvendra Chahal,0,2
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Amit Mishra,1,1
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Lasith Malinga,1,4
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Amit Mishra,1,1
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Ravichandran Ashwin,0,3
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,3
+39,2020,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Ravichandran Ashwin,0,7
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Jasprit Bumrah,0,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,2,Amit Mishra,0,5
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,4,Lasith Malinga,1,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Amit Mishra,0,6
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Ravichandran Ashwin,0,4
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,4,Amit Mishra,1,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Amit Mishra,0,6
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,7
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Jasprit Bumrah,0,1
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,4,Lasith Malinga,0,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,4,Lasith Malinga,0,1
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,3
+40,2021,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Ravichandran Ashwin,0,6
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,0,Lasith Malinga,0,2
+41,2019,Chennai Super Kings,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,3
+41,2019,Chennai Super Kings,Delhi Capitals,AB de Villiers,6,Lasith Malinga,1,2
+41,2019,Chennai Super Kings,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,1
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,2,Ravichandran Ashwin,0,5
+41,2019,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,2
+41,2019,Chennai Super Kings,Delhi Capitals,Virat Kohli,2,Amit Mishra,0,6
+41,2019,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Lasith Malinga,0,5
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Ravichandran Ashwin,1,3
+41,2019,Chennai Super Kings,Delhi Capitals,AB de Villiers,0,Jasprit Bumrah,0,2
+41,2019,Chennai Super Kings,Delhi Capitals,Suresh Raina,2,Amit Mishra,0,2
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Amit Mishra,0,3
+41,2019,Chennai Super Kings,Delhi Capitals,AB de Villiers,0,Lasith Malinga,0,7
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,4,Jasprit Bumrah,0,5
+41,2019,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Ravichandran Ashwin,0,1
+42,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Amit Mishra,0,4
+42,2020,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Yuzvendra Chahal,0,4
+42,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Amit Mishra,0,7
+42,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Yuzvendra Chahal,0,2
+42,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Jasprit Bumrah,0,7
+42,2020,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Yuzvendra Chahal,0,6
+42,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,4,Yuzvendra Chahal,0,6
+42,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,6,Ravichandran Ashwin,1,1
+42,2020,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Jasprit Bumrah,0,4
+42,2020,Mumbai Indians,Mumbai Indians,Suresh Raina,2,Lasith Malinga,0,1
+42,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Amit Mishra,0,1
+42,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Ravichandran Ashwin,0,3
+42,2020,Mumbai Indians,Mumbai Indians,Virat Kohli,2,Yuzvendra Chahal,0,5
+42,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Ravichandran Ashwin,1,4
+42,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Jasprit Bumrah,0,5
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,0,Ravichandran Ashwin,0,7
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,4,Lasith Malinga,0,2
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,2,Jasprit Bumrah,0,1
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,1,Ravichandran Ashwin,0,2
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,1,Lasith Malinga,0,6
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,2,Ravichandran Ashwin,0,1
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,2,Amit Mishra,1,4
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,1,Jasprit Bumrah,0,4
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,MS Dhoni,1,Jasprit Bumrah,0,6
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Rohit Sharma,1,Ravichandran Ashwin,0,5
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Shikhar Dhawan,4,Yuzvendra Chahal,0,4
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,1,Jasprit Bumrah,0,6
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,4,Amit Mishra,0,3
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6,Amit Mishra,0,1
+43,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Suresh Raina,1,Jasprit Bumrah,0,2
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,2,Jasprit Bumrah,0,6
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Yuzvendra Chahal,0,1
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,5
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,4,Jasprit Bumrah,0,1
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Ravichandran Ashwin,0,4
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,2,Ravichandran Ashwin,0,4
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,2,Amit Mishra,0,2
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Amit Mishra,0,7
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,2,Jasprit Bumrah,0,4
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Jasprit Bumrah,0,5
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Ravichandran Ashwin,0,4
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Jasprit Bumrah,0,4
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Amit Mishra,0,7
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1,Yuzvendra Chahal,0,5
+44,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,1
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,6,Ravichandran Ashwin,0,6
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,2,Yuzvendra Chahal,0,7
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,5
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Jasprit Bumrah,1,5
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Amit Mishra,0,1
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,6,Lasith Malinga,1,1
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Jasprit Bumrah,1,7
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Yuzvendra Chahal,0,4
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,2,Ravichandran Ashwin,1,3
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,1,5
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Amit Mishra,0,1
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Lasith Malinga,1,2
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,4,Amit Mishra,0,2
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Amit Mishra,0,3
+45,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,0,Amit Mishra,0,7
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Lasith Malinga,0,5
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Lasith Malinga,1,1
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,2,Jasprit Bumrah,0,4
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,0,Lasith Malinga,1,3
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Yuzvendra Chahal,1,5
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Yuzvendra Chahal,0,2
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Ravichandran Ashwin,1,7
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Jasprit Bumrah,0,2
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Yuzvendra Chahal,0,1
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Lasith Malinga,0,5
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Lasith Malinga,0,4
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Ravichandran Ashwin,0,7
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Yuzvendra Chahal,0,5
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Amit Mishra,0,3
+46,2022,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Lasith Malinga,0,3
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,2,Ravichandran Ashwin,0,2
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Jasprit Bumrah,0,5
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,5
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,6
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Yuzvendra Chahal,0,7
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Amit Mishra,0,3
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,2,Amit Mishra,0,3
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,2,Ravichandran Ashwin,0,2
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Ravichandran Ashwin,0,3
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Lasith Malinga,1,4
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,3
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,2,Lasith Malinga,0,6
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Yuzvendra Chahal,0,1
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,6,Jasprit Bumrah,0,5
+47,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,2,Jasprit Bumrah,0,1
+48,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,4,Yuzvendra Chahal,0,6
+48,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Lasith Malinga,0,1
+48,2019,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Amit Mishra,1,3
+48,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,2,Amit Mishra,0,5
+48,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,4
+48,2019,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Lasith Malinga,0,6
+48,2019,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Yuzvendra Chahal,0,4
+48,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Jasprit Bumrah,0,3
+48,2019,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,5
+48,2019,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Amit Mishra,0,3
+48,2019,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Amit Mishra,0,2
+48,2019,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Ravichandran Ashwin,0,6
+48,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,4,Lasith Malinga,0,4
+48,2019,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Amit Mishra,0,3
+48,2019,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,1,5
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Jasprit Bumrah,0,1
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Lasith Malinga,0,7
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,6,Amit Mishra,0,7
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,2,Ravichandran Ashwin,0,5
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,6,Jasprit Bumrah,1,2
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Jasprit Bumrah,0,2
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,6,Jasprit Bumrah,0,2
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Lasith Malinga,0,7
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,2
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,7
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Amit Mishra,0,6
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Amit Mishra,0,2
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,3
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,3
+49,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Amit Mishra,1,2
+50,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,2,Ravichandran Ashwin,0,6
+50,2019,Chennai Super Kings,Chennai Super Kings,Suresh Raina,2,Jasprit Bumrah,0,1
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,3
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Jasprit Bumrah,0,2
+50,2019,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Jasprit Bumrah,0,3
+50,2019,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Amit Mishra,0,7
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Amit Mishra,0,1
+50,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Amit Mishra,0,1
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Amit Mishra,0,7
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,4,Amit Mishra,0,7
+50,2019,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Ravichandran Ashwin,0,2
+50,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,1
+50,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Yuzvendra Chahal,0,7
+50,2019,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Ravichandran Ashwin,0,3
+50,2019,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,3
+51,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,4
+51,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,4,Ravichandran Ashwin,0,3
+51,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,4
+51,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Amit Mishra,0,3
+51,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,2,Yuzvendra Chahal,0,6
+51,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Ravichandran Ashwin,0,7
+51,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Amit Mishra,0,1
+51,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Yuzvendra Chahal,0,6
+51,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Ravichandran Ashwin,0,2
+51,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,4
+51,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Ravichandran Ashwin,0,4
+51,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Yuzvendra Chahal,0,5
+51,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Amit Mishra,0,5
+51,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,4,Ravichandran Ashwin,0,2
+51,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,5
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,1
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,4,Lasith Malinga,0,7
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Ravichandran Ashwin,0,6
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Ravichandran Ashwin,0,5
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Amit Mishra,0,6
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Jasprit Bumrah,0,2
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Yuzvendra Chahal,0,3
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Yuzvendra Chahal,0,6
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Amit Mishra,0,3
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Jasprit Bumrah,0,3
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,0,2
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Jasprit Bumrah,0,7
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Ravichandran Ashwin,0,5
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Ravichandran Ashwin,0,1
+52,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Jasprit Bumrah,1,1
+53,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,2
+53,2019,Mumbai Indians,Mumbai Indians,Suresh Raina,4,Amit Mishra,0,1
+53,2019,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Jasprit Bumrah,0,3
+53,2019,Mumbai Indians,Mumbai Indians,AB de Villiers,2,Ravichandran Ashwin,0,2
+53,2019,Mumbai Indians,Mumbai Indians,Virat Kohli,4,Lasith Malinga,0,6
+53,2019,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Yuzvendra Chahal,1,2
+53,2019,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Jasprit Bumrah,0,7
+53,2019,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Jasprit Bumrah,0,2
+53,2019,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Amit Mishra,1,3
+53,2019,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Lasith Malinga,0,6
+53,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,2,Amit Mishra,0,4
+53,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Lasith Malinga,1,6
+53,2019,Mumbai Indians,Mumbai Indians,MS Dhoni,4,Jasprit Bumrah,0,7
+53,2019,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Jasprit Bumrah,0,1
+53,2019,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Ravichandran Ashwin,0,2
+54,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,4
+54,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,7
+54,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Yuzvendra Chahal,0,5
+54,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Yuzvendra Chahal,0,5
+54,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,2,Lasith Malinga,0,5
+54,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,4,Amit Mishra,0,3
+54,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Yuzvendra Chahal,0,2
+54,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,6,Jasprit Bumrah,0,6
+54,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Lasith Malinga,0,1
+54,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Amit Mishra,0,6
+54,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Yuzvendra Chahal,0,7
+54,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,4
+54,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Jasprit Bumrah,0,6
+54,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Lasith Malinga,0,4
+54,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Jasprit Bumrah,0,3
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,4,Yuzvendra Chahal,0,1
+55,2022,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,2,Lasith Malinga,1,3
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,2,Ravichandran Ashwin,0,5
+55,2022,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,0,Ravichandran Ashwin,0,3
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,4,Ravichandran Ashwin,0,3
+55,2022,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,6
+55,2022,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,4,Jasprit Bumrah,0,7
+55,2022,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,0,Lasith Malinga,0,5
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+55,2022,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,0,1
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,1,7
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,5
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Jasprit Bumrah,0,6
+55,2022,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,3
+55,2022,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,5
+56,2021,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Yuzvendra Chahal,0,1
+56,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,2
+56,2021,Mumbai Indians,Mumbai Indians,Virat Kohli,4,Yuzvendra Chahal,0,1
+56,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Amit Mishra,0,4
+56,2021,Mumbai Indians,Mumbai Indians,AB de Villiers,4,Amit Mishra,0,6
+56,2021,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Ravichandran Ashwin,0,2
+56,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Lasith Malinga,0,3
+56,2021,Mumbai Indians,Mumbai Indians,AB de Villiers,2,Ravichandran Ashwin,0,6
+56,2021,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Amit Mishra,0,6
+56,2021,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Ravichandran Ashwin,1,3
+56,2021,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Jasprit Bumrah,1,4
+56,2021,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,4,Jasprit Bumrah,0,7
+56,2021,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Amit Mishra,0,5
+56,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,4,Yuzvendra Chahal,1,3
+56,2021,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Yuzvendra Chahal,0,2
+57,2020,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,6,Amit Mishra,0,4
+57,2020,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,6,Jasprit Bumrah,1,4
+57,2020,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,1,Ravichandran Ashwin,0,4
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,0,Jasprit Bumrah,0,5
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Suresh Raina,0,Amit Mishra,0,6
+57,2020,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,1,Lasith Malinga,0,6
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,6
+57,2020,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,0,Amit Mishra,0,1
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,1,Yuzvendra Chahal,0,2
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,1,Jasprit Bumrah,0,1
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,1,Jasprit Bumrah,0,7
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,6,Jasprit Bumrah,1,2
+57,2020,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,1,Ravichandran Ashwin,0,7
+57,2020,Royal Challengers Bangalore,Delhi Capitals,Suresh Raina,1,Lasith Malinga,0,1
+57,2020,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,2,Amit Mishra,0,6
+58,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,4
+58,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Amit Mishra,1,1
+58,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Amit Mishra,0,3
+58,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Yuzvendra Chahal,1,5
+58,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,6,Jasprit Bumrah,0,3
+58,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Lasith Malinga,0,3
+58,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,2,Amit Mishra,0,1
+58,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,6
+58,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Yuzvendra Chahal,0,4
+58,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,2,Amit Mishra,0,7
+58,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0,Yuzvendra Chahal,0,3
+58,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,6,Lasith Malinga,0,3
+58,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+58,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,2,Jasprit Bumrah,0,5
+58,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Yuzvendra Chahal,0,5
+59,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Amit Mishra,0,4
+59,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,2,Ravichandran Ashwin,0,4
+59,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Amit Mishra,1,7
+59,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,2,Lasith Malinga,0,1
+59,2020,Delhi Capitals,Delhi Capitals,Suresh Raina,2,Jasprit Bumrah,0,3
+59,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Lasith Malinga,0,6
+59,2020,Delhi Capitals,Delhi Capitals,MS Dhoni,2,Lasith Malinga,0,1
+59,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,6
+59,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,3
+59,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Jasprit Bumrah,0,3
+59,2020,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Yuzvendra Chahal,0,3
+59,2020,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Lasith Malinga,0,4
+59,2020,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,4
+59,2020,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Lasith Malinga,0,5
+59,2020,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,7
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,2
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,6,Jasprit Bumrah,1,2
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,0,Lasith Malinga,0,4
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,6
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,2
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,4,Ravichandran Ashwin,0,3
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0,Amit Mishra,0,4
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,2,Yuzvendra Chahal,0,7
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,1,Jasprit Bumrah,0,2
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,6,Ravichandran Ashwin,0,1
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,0,Ravichandran Ashwin,0,6
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,7
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,1,Jasprit Bumrah,0,6
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0,Amit Mishra,0,4
+60,2022,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,6,Amit Mishra,0,7
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,1,Jasprit Bumrah,0,3
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,2,Yuzvendra Chahal,0,7
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,4,Yuzvendra Chahal,0,4
+61,2022,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,1,Amit Mishra,0,7
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,2,Ravichandran Ashwin,0,4
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,2,Yuzvendra Chahal,0,7
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,0,Amit Mishra,0,1
+61,2022,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,0,Jasprit Bumrah,0,7
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,6
+61,2022,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,4,Jasprit Bumrah,0,2
+61,2022,Royal Challengers Bangalore,Delhi Capitals,Shikhar Dhawan,0,Jasprit Bumrah,0,5
+61,2022,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,1,Ravichandran Ashwin,0,5
+61,2022,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,2,Ravichandran Ashwin,0,4
+61,2022,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,1,Yuzvendra Chahal,0,1
+62,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,2
+62,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Ravichandran Ashwin,0,4
+62,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,2,Amit Mishra,0,3
+62,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,4
+62,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,1,3
+62,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Yuzvendra Chahal,0,5
+62,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Lasith Malinga,0,6
+62,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Amit Mishra,0,2
+62,2020,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,7
+62,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,4,Amit Mishra,1,2
+62,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,6
+62,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Ravichandran Ashwin,0,4
+62,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Ravichandran Ashwin,0,6
+62,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Ravichandran Ashwin,0,4
+62,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,4,Yuzvendra Chahal,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,Suresh Raina,0,Lasith Malinga,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,MS Dhoni,2,Amit Mishra,0,1
+63,2022,Mumbai Indians,Chennai Super Kings,Virat Kohli,0,Lasith Malinga,1,4
+63,2022,Mumbai Indians,Chennai Super Kings,AB de Villiers,2,Lasith Malinga,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,MS Dhoni,6,Amit Mishra,0,1
+63,2022,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0,Jasprit Bumrah,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,MS Dhoni,4,Ravichandran Ashwin,0,7
+63,2022,Mumbai Indians,Chennai Super Kings,AB de Villiers,2,Yuzvendra Chahal,0,7
+63,2022,Mumbai Indians,Chennai Super Kings,Virat Kohli,2,Yuzvendra Chahal,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,3
+63,2022,Mumbai Indians,Chennai Super Kings,Suresh Raina,1,Yuzvendra Chahal,0,3
+63,2022,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,4,Ravichandran Ashwin,0,1
+63,2022,Mumbai Indians,Chennai Super Kings,AB de Villiers,4,Amit Mishra,0,2
+63,2022,Mumbai Indians,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,3
+63,2022,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,2,Jasprit Bumrah,0,7
+64,2021,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,3
+64,2021,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Amit Mishra,0,6
+64,2021,Chennai Super Kings,Delhi Capitals,MS Dhoni,4,Ravichandran Ashwin,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,0,Yuzvendra Chahal,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,7
+64,2021,Chennai Super Kings,Delhi Capitals,AB de Villiers,2,Ravichandran Ashwin,0,5
+64,2021,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,2,Amit Mishra,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,MS Dhoni,0,Ravichandran Ashwin,0,3
+64,2021,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Jasprit Bumrah,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,Rohit Sharma,1,Yuzvendra Chahal,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,AB de Villiers,1,Yuzvendra Chahal,0,6
+64,2021,Chennai Super Kings,Delhi Capitals,AB de Villiers,0,Amit Mishra,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,4
+64,2021,Chennai Super Kings,Delhi Capitals,Virat Kohli,0,Amit Mishra,0,5
+64,2021,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Lasith Malinga,0,2
+65,2022,Delhi Capitals,Kolkata Knight Riders,Shikhar Dhawan,6,Yuzvendra Chahal,0,4
+65,2022,Delhi Capitals,Kolkata Knight Riders,MS Dhoni,0,Lasith Malinga,0,5
+65,2022,Delhi Capitals,Kolkata Knight Riders,MS Dhoni,6,Yuzvendra Chahal,0,2
+65,2022,Delhi Capitals,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,6
+65,2022,Delhi Capitals,Kolkata Knight Riders,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+65,2022,Delhi Capitals,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,1
+65,2022,Delhi Capitals,Kolkata Knight Riders,Virat Kohli,1,Jasprit Bumrah,0,5
+65,2022,Delhi Capitals,Kolkata Knight Riders,Rohit Sharma,2,Yuzvendra Chahal,0,4
+65,2022,Delhi Capitals,Kolkata Knight Riders,MS Dhoni,0,Yuzvendra Chahal,0,5
+65,2022,Delhi Capitals,Kolkata Knight Riders,MS Dhoni,1,Yuzvendra Chahal,0,6
+65,2022,Delhi Capitals,Kolkata Knight Riders,Rohit Sharma,2,Yuzvendra Chahal,0,6
+65,2022,Delhi Capitals,Kolkata Knight Riders,Suresh Raina,0,Jasprit Bumrah,0,2
+65,2022,Delhi Capitals,Kolkata Knight Riders,Suresh Raina,6,Jasprit Bumrah,0,1
+65,2022,Delhi Capitals,Kolkata Knight Riders,AB de Villiers,0,Ravichandran Ashwin,0,5
+65,2022,Delhi Capitals,Kolkata Knight Riders,AB de Villiers,0,Yuzvendra Chahal,0,1
+66,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,6,Jasprit Bumrah,0,1
+66,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,0,Yuzvendra Chahal,0,7
+66,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,2,Lasith Malinga,0,6
+66,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Jasprit Bumrah,1,5
+66,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Amit Mishra,0,5
+66,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,6
+66,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,4,Amit Mishra,0,6
+66,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,6,Ravichandran Ashwin,1,1
+66,2022,Chennai Super Kings,Delhi Capitals,Virat Kohli,4,Amit Mishra,1,3
+66,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,0,Lasith Malinga,1,5
+66,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Amit Mishra,0,5
+66,2022,Chennai Super Kings,Delhi Capitals,AB de Villiers,0,Amit Mishra,1,6
+66,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,7
+66,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,0,Lasith Malinga,0,7
+66,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Lasith Malinga,0,6
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,4,Ravichandran Ashwin,0,1
+67,2021,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,1
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,6
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,1,Yuzvendra Chahal,0,4
+67,2021,Delhi Capitals,Royal Challengers Bangalore,AB de Villiers,1,Yuzvendra Chahal,0,1
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Virat Kohli,1,Amit Mishra,0,5
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,1,Amit Mishra,0,3
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,7
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,5
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,0,Amit Mishra,0,4
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,3
+67,2021,Delhi Capitals,Royal Challengers Bangalore,Suresh Raina,1,Yuzvendra Chahal,0,2
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,0,Jasprit Bumrah,0,3
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,1,Lasith Malinga,0,3
+67,2021,Delhi Capitals,Royal Challengers Bangalore,MS Dhoni,0,Lasith Malinga,0,6
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Lasith Malinga,0,3
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,2,Lasith Malinga,1,4
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,2,Amit Mishra,0,5
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Jasprit Bumrah,1,5
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Amit Mishra,0,3
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Yuzvendra Chahal,0,6
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Yuzvendra Chahal,0,7
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,1,Ravichandran Ashwin,0,4
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Amit Mishra,1,6
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,6,Ravichandran Ashwin,0,1
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,0,Lasith Malinga,0,6
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Jasprit Bumrah,1,6
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,6,Jasprit Bumrah,0,1
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Lasith Malinga,0,1
+68,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,4
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Ravichandran Ashwin,0,5
+69,2021,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Amit Mishra,0,3
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Amit Mishra,0,3
+69,2021,Chennai Super Kings,Chennai Super Kings,MS Dhoni,1,Amit Mishra,0,7
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,2,Jasprit Bumrah,0,6
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Amit Mishra,1,4
+69,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,0,2
+69,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,6,Ravichandran Ashwin,0,4
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,5
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Jasprit Bumrah,0,4
+69,2021,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Jasprit Bumrah,0,4
+69,2021,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Ravichandran Ashwin,0,4
+69,2021,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Yuzvendra Chahal,0,3
+69,2021,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,1,4
+69,2021,Chennai Super Kings,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,2
+70,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Yuzvendra Chahal,0,1
+70,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Amit Mishra,0,3
+70,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,5
+70,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,2,Lasith Malinga,0,7
+70,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Ravichandran Ashwin,0,3
+70,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,2,Ravichandran Ashwin,0,6
+70,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Ravichandran Ashwin,1,3
+70,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Amit Mishra,0,3
+70,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Ravichandran Ashwin,1,1
+70,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Ravichandran Ashwin,0,7
+70,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,4,Jasprit Bumrah,0,1
+70,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,6,Jasprit Bumrah,0,4
+70,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Yuzvendra Chahal,0,6
+70,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Lasith Malinga,0,5
+70,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Ravichandran Ashwin,0,4
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Lasith Malinga,0,1
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Amit Mishra,0,2
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,6,Ravichandran Ashwin,0,1
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Yuzvendra Chahal,0,7
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Amit Mishra,0,2
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,1,5
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Ravichandran Ashwin,0,1
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,7
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,4
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Jasprit Bumrah,1,3
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Ravichandran Ashwin,0,4
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Amit Mishra,0,4
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,0,Amit Mishra,0,6
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Ravichandran Ashwin,1,1
+71,2020,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Lasith Malinga,0,6
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1,Lasith Malinga,0,2
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,4,Lasith Malinga,0,2
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,5
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,2,Yuzvendra Chahal,0,5
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Amit Mishra,0,5
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Jasprit Bumrah,0,2
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Lasith Malinga,0,6
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Yuzvendra Chahal,1,7
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Lasith Malinga,0,1
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,1
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Jasprit Bumrah,0,3
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Yuzvendra Chahal,0,7
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Lasith Malinga,0,2
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Amit Mishra,0,2
+72,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Ravichandran Ashwin,0,2
+73,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,2,Jasprit Bumrah,0,4
+73,2020,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Amit Mishra,0,1
+73,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,2,Amit Mishra,0,7
+73,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Ravichandran Ashwin,0,4
+73,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,4,Ravichandran Ashwin,1,2
+73,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,2,Jasprit Bumrah,0,7
+73,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Ravichandran Ashwin,0,5
+73,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Amit Mishra,0,4
+73,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,0,Jasprit Bumrah,0,2
+73,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Ravichandran Ashwin,1,6
+73,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,2,Jasprit Bumrah,0,4
+73,2020,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Ravichandran Ashwin,0,5
+73,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Yuzvendra Chahal,0,3
+73,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Lasith Malinga,0,5
+73,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Amit Mishra,0,7
+74,2020,Mumbai Indians,Mumbai Indians,Virat Kohli,1,Lasith Malinga,0,1
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Lasith Malinga,0,7
+74,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Yuzvendra Chahal,0,4
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,4,Ravichandran Ashwin,0,3
+74,2020,Mumbai Indians,Mumbai Indians,Rohit Sharma,2,Jasprit Bumrah,1,2
+74,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Jasprit Bumrah,0,6
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Lasith Malinga,0,4
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Ravichandran Ashwin,0,2
+74,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Lasith Malinga,0,4
+74,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,4,Jasprit Bumrah,1,5
+74,2020,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Lasith Malinga,0,5
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Amit Mishra,0,3
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Jasprit Bumrah,0,4
+74,2020,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+74,2020,Mumbai Indians,Mumbai Indians,MS Dhoni,2,Lasith Malinga,0,7
+75,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Amit Mishra,0,2
+75,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Lasith Malinga,0,4
+75,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Ravichandran Ashwin,0,5
+75,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Ravichandran Ashwin,1,6
+75,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,6
+75,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0,Ravichandran Ashwin,0,6
+75,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,0,Jasprit Bumrah,0,1
+75,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Ravichandran Ashwin,0,6
+75,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,4,Yuzvendra Chahal,0,1
+75,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,4
+75,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Jasprit Bumrah,1,5
+75,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,6,Lasith Malinga,0,1
+75,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,4,Yuzvendra Chahal,0,4
+75,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,4,Yuzvendra Chahal,0,6
+75,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,0,Yuzvendra Chahal,0,7
+76,2019,Mumbai Indians,Delhi Capitals,Suresh Raina,0,Lasith Malinga,0,1
+76,2019,Mumbai Indians,Delhi Capitals,Suresh Raina,0,Amit Mishra,1,6
+76,2019,Mumbai Indians,Delhi Capitals,Rohit Sharma,0,Yuzvendra Chahal,0,1
+76,2019,Mumbai Indians,Delhi Capitals,Shikhar Dhawan,0,Ravichandran Ashwin,0,3
+76,2019,Mumbai Indians,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,3
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,2,Yuzvendra Chahal,0,7
+76,2019,Mumbai Indians,Delhi Capitals,Rohit Sharma,6,Yuzvendra Chahal,0,6
+76,2019,Mumbai Indians,Delhi Capitals,Virat Kohli,4,Lasith Malinga,0,2
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,4,Amit Mishra,1,3
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,1,Lasith Malinga,0,1
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,0,Lasith Malinga,0,1
+76,2019,Mumbai Indians,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,4
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,1,Jasprit Bumrah,0,1
+76,2019,Mumbai Indians,Delhi Capitals,AB de Villiers,0,Yuzvendra Chahal,0,6
+76,2019,Mumbai Indians,Delhi Capitals,Virat Kohli,4,Lasith Malinga,0,3
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Amit Mishra,0,6
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Jasprit Bumrah,0,5
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Yuzvendra Chahal,0,1
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,6,Lasith Malinga,0,3
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Amit Mishra,0,6
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Lasith Malinga,0,2
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Amit Mishra,0,1
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Ravichandran Ashwin,0,3
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,0,Jasprit Bumrah,0,2
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,6,Amit Mishra,1,1
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Lasith Malinga,1,5
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,2,Jasprit Bumrah,0,6
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Lasith Malinga,0,7
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Jasprit Bumrah,0,7
+77,2019,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,4,Yuzvendra Chahal,1,1
+78,2019,Delhi Capitals,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,4
+78,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,3
+78,2019,Delhi Capitals,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,1
+78,2019,Delhi Capitals,Chennai Super Kings,AB de Villiers,4,Jasprit Bumrah,0,3
+78,2019,Delhi Capitals,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,5
+78,2019,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,2
+78,2019,Delhi Capitals,Chennai Super Kings,Virat Kohli,1,Lasith Malinga,0,1
+78,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,5
+78,2019,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Jasprit Bumrah,0,1
+78,2019,Delhi Capitals,Chennai Super Kings,Suresh Raina,6,Ravichandran Ashwin,0,6
+78,2019,Delhi Capitals,Chennai Super Kings,Rohit Sharma,2,Ravichandran Ashwin,0,5
+78,2019,Delhi Capitals,Chennai Super Kings,Rohit Sharma,1,Yuzvendra Chahal,0,4
+78,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Jasprit Bumrah,0,1
+78,2019,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,7
+78,2019,Delhi Capitals,Chennai Super Kings,MS Dhoni,0,Ravichandran Ashwin,0,7
+79,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Jasprit Bumrah,0,6
+79,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,1
+79,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,1
+79,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,4
+79,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,6,Amit Mishra,0,5
+79,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Jasprit Bumrah,0,6
+79,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,4
+79,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Yuzvendra Chahal,0,7
+79,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,2,Ravichandran Ashwin,0,3
+79,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Yuzvendra Chahal,1,6
+79,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Amit Mishra,1,1
+79,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,5
+79,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,1,Yuzvendra Chahal,0,7
+79,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Amit Mishra,0,4
+79,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,6,Amit Mishra,0,4
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,1,Ravichandran Ashwin,0,6
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,5
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,0,Lasith Malinga,0,3
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,0,Lasith Malinga,0,7
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,0,Ravichandran Ashwin,0,7
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,0,Jasprit Bumrah,0,5
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,3
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,0,Yuzvendra Chahal,1,4
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,1
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,7
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,0,Yuzvendra Chahal,0,6
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6,Ravichandran Ashwin,0,4
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,2,Ravichandran Ashwin,0,7
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,2
+80,2020,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,0,Amit Mishra,0,4
+81,2022,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,1,Yuzvendra Chahal,0,5
+81,2022,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,1,Amit Mishra,1,7
+81,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Ravichandran Ashwin,0,4
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,6,Yuzvendra Chahal,0,3
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,0,Lasith Malinga,0,5
+81,2022,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,1,Jasprit Bumrah,0,4
+81,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Amit Mishra,0,3
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Amit Mishra,0,2
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Yuzvendra Chahal,0,6
+81,2022,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,2,Jasprit Bumrah,0,2
+81,2022,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Amit Mishra,0,2
+81,2022,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,1,Ravichandran Ashwin,0,5
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Jasprit Bumrah,1,2
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,4,Ravichandran Ashwin,0,4
+81,2022,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Ravichandran Ashwin,0,2
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0,Yuzvendra Chahal,0,2
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,5
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,MS Dhoni,1,Yuzvendra Chahal,0,2
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,2,Yuzvendra Chahal,0,4
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,5
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,4,Amit Mishra,0,6
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,4,Ravichandran Ashwin,0,3
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,2,Jasprit Bumrah,0,2
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,0,7
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,2,Jasprit Bumrah,0,4
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Rohit Sharma,6,Ravichandran Ashwin,0,5
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,1,Ravichandran Ashwin,0,6
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,6,Ravichandran Ashwin,0,4
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Suresh Raina,1,Jasprit Bumrah,0,4
+82,2021,Royal Challengers Bangalore,Chennai Super Kings,Shikhar Dhawan,4,Amit Mishra,0,5
+83,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Yuzvendra Chahal,0,2
+83,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,1
+83,2020,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,6,Yuzvendra Chahal,0,7
+83,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Ravichandran Ashwin,0,3
+83,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Amit Mishra,1,4
+83,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,3
+83,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,4,Yuzvendra Chahal,0,6
+83,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,5
+83,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Yuzvendra Chahal,0,2
+83,2020,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Yuzvendra Chahal,0,7
+83,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Lasith Malinga,0,3
+83,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,4,Yuzvendra Chahal,0,6
+83,2020,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Lasith Malinga,0,7
+83,2020,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,6,Lasith Malinga,0,7
+83,2020,Chennai Super Kings,Chennai Super Kings,Virat Kohli,2,Jasprit Bumrah,0,7
+84,2021,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,1
+84,2021,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,4,Yuzvendra Chahal,0,1
+84,2021,Kolkata Knight Riders,Delhi Capitals,Suresh Raina,1,Amit Mishra,0,7
+84,2021,Kolkata Knight Riders,Delhi Capitals,Rohit Sharma,4,Ravichandran Ashwin,0,7
+84,2021,Kolkata Knight Riders,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,2
+84,2021,Kolkata Knight Riders,Delhi Capitals,Shikhar Dhawan,4,Ravichandran Ashwin,0,6
+84,2021,Kolkata Knight Riders,Delhi Capitals,Suresh Raina,0,Amit Mishra,1,4
+84,2021,Kolkata Knight Riders,Delhi Capitals,Virat Kohli,0,Amit Mishra,0,2
+84,2021,Kolkata Knight Riders,Delhi Capitals,Shikhar Dhawan,0,Yuzvendra Chahal,0,7
+84,2021,Kolkata Knight Riders,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,4
+84,2021,Kolkata Knight Riders,Delhi Capitals,MS Dhoni,1,Jasprit Bumrah,0,7
+84,2021,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,0,Ravichandran Ashwin,0,1
+84,2021,Kolkata Knight Riders,Delhi Capitals,Shikhar Dhawan,0,Amit Mishra,0,6
+84,2021,Kolkata Knight Riders,Delhi Capitals,MS Dhoni,0,Amit Mishra,0,5
+84,2021,Kolkata Knight Riders,Delhi Capitals,AB de Villiers,1,Ravichandran Ashwin,0,4
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,4,Yuzvendra Chahal,0,4
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,1,Amit Mishra,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,0,Ravichandran Ashwin,0,6
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Jasprit Bumrah,1,3
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Jasprit Bumrah,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,1,Amit Mishra,0,5
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,1,Lasith Malinga,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Yuzvendra Chahal,1,7
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,0,Yuzvendra Chahal,1,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,0,Yuzvendra Chahal,0,4
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,2,Yuzvendra Chahal,0,3
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,4,Ravichandran Ashwin,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Shikhar Dhawan,0,Amit Mishra,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,Suresh Raina,1,Ravichandran Ashwin,0,1
+85,2020,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,1,Jasprit Bumrah,0,3
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,0,Amit Mishra,0,5
+86,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,1,Lasith Malinga,0,4
+86,2021,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Ravichandran Ashwin,0,7
+86,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Amit Mishra,0,6
+86,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,2,Lasith Malinga,0,5
+86,2021,Mumbai Indians,Mumbai Indians,Rohit Sharma,4,Yuzvendra Chahal,0,2
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,1,Jasprit Bumrah,0,6
+86,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,6,Ravichandran Ashwin,0,6
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,4,Jasprit Bumrah,0,2
+86,2021,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Amit Mishra,0,7
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,4,Jasprit Bumrah,0,1
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,6,Amit Mishra,0,6
+86,2021,Mumbai Indians,Mumbai Indians,Suresh Raina,6,Yuzvendra Chahal,0,7
+86,2021,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Jasprit Bumrah,0,6
+86,2021,Mumbai Indians,Mumbai Indians,Virat Kohli,2,Amit Mishra,0,7
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,6,Lasith Malinga,0,4
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,4,Ravichandran Ashwin,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0,Yuzvendra Chahal,0,5
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Jasprit Bumrah,0,2
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,0,Jasprit Bumrah,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,2,Jasprit Bumrah,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,1,Amit Mishra,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,1,Ravichandran Ashwin,0,6
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0,Amit Mishra,0,5
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,2,Ravichandran Ashwin,0,1
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,2
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,2,Yuzvendra Chahal,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,2,Lasith Malinga,0,3
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,7
+87,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,0,Ravichandran Ashwin,0,5
+88,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Ravichandran Ashwin,0,5
+88,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,0,2
+88,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,1,Lasith Malinga,0,5
+88,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,6,Amit Mishra,0,2
+88,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,6
+88,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Yuzvendra Chahal,0,4
+88,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Jasprit Bumrah,0,5
+88,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,1,Yuzvendra Chahal,0,7
+88,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,0,3
+88,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Lasith Malinga,0,2
+88,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Lasith Malinga,0,2
+88,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Lasith Malinga,1,4
+88,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,0,Amit Mishra,0,3
+88,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,0,Lasith Malinga,0,7
+88,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Lasith Malinga,0,7
+89,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,5
+89,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Lasith Malinga,0,6
+89,2022,Chennai Super Kings,Chennai Super Kings,MS Dhoni,2,Ravichandran Ashwin,1,1
+89,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,1,Lasith Malinga,0,7
+89,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,6,Lasith Malinga,0,7
+89,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Lasith Malinga,0,4
+89,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,4,Amit Mishra,0,3
+89,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,4,Amit Mishra,0,2
+89,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,4,Yuzvendra Chahal,0,5
+89,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,0,Amit Mishra,0,1
+89,2022,Chennai Super Kings,Chennai Super Kings,AB de Villiers,4,Lasith Malinga,0,6
+89,2022,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,0,7
+89,2022,Chennai Super Kings,Chennai Super Kings,Suresh Raina,0,Ravichandran Ashwin,0,3
+89,2022,Chennai Super Kings,Chennai Super Kings,Virat Kohli,0,Lasith Malinga,0,7
+89,2022,Chennai Super Kings,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0,Jasprit Bumrah,0,1
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,1,Ravichandran Ashwin,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,2,Amit Mishra,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,1,Jasprit Bumrah,0,2
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,1,Amit Mishra,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,0,Jasprit Bumrah,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,0,Ravichandran Ashwin,0,1
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,1,Ravichandran Ashwin,0,3
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,1,Amit Mishra,0,5
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,4,Yuzvendra Chahal,0,3
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,0,Jasprit Bumrah,0,3
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Virat Kohli,0,Yuzvendra Chahal,0,6
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Shikhar Dhawan,4,Ravichandran Ashwin,0,5
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,0,Yuzvendra Chahal,0,4
+90,2021,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,2,Amit Mishra,0,1
+91,2021,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,1,Lasith Malinga,0,3
+91,2021,Mumbai Indians,Chennai Super Kings,AB de Villiers,1,Ravichandran Ashwin,1,1
+91,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,2,Amit Mishra,0,3
+91,2021,Mumbai Indians,Chennai Super Kings,Virat Kohli,0,Jasprit Bumrah,0,1
+91,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,1,5
+91,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0,Yuzvendra Chahal,0,2
+91,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,4
+91,2021,Mumbai Indians,Chennai Super Kings,Virat Kohli,4,Ravichandran Ashwin,1,2
+91,2021,Mumbai Indians,Chennai Super Kings,Virat Kohli,1,Amit Mishra,0,5
+91,2021,Mumbai Indians,Chennai Super Kings,Suresh Raina,0,Ravichandran Ashwin,0,3
+91,2021,Mumbai Indians,Chennai Super Kings,AB de Villiers,0,Jasprit Bumrah,0,2
+91,2021,Mumbai Indians,Chennai Super Kings,MS Dhoni,2,Lasith Malinga,0,3
+91,2021,Mumbai Indians,Chennai Super Kings,Shikhar Dhawan,0,Ravichandran Ashwin,0,4
+91,2021,Mumbai Indians,Chennai Super Kings,Suresh Raina,0,Yuzvendra Chahal,0,1
+91,2021,Mumbai Indians,Chennai Super Kings,Rohit Sharma,1,Ravichandran Ashwin,0,4
+92,2021,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,1,Amit Mishra,0,1
+92,2021,Delhi Capitals,Chennai Super Kings,AB de Villiers,1,Yuzvendra Chahal,0,6
+92,2021,Delhi Capitals,Chennai Super Kings,AB de Villiers,6,Lasith Malinga,0,2
+92,2021,Delhi Capitals,Chennai Super Kings,MS Dhoni,2,Lasith Malinga,0,3
+92,2021,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,4,Amit Mishra,0,7
+92,2021,Delhi Capitals,Chennai Super Kings,AB de Villiers,1,Lasith Malinga,0,2
+92,2021,Delhi Capitals,Chennai Super Kings,Rohit Sharma,1,Lasith Malinga,0,5
+92,2021,Delhi Capitals,Chennai Super Kings,Rohit Sharma,2,Jasprit Bumrah,0,2
+92,2021,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Ravichandran Ashwin,0,6
+92,2021,Delhi Capitals,Chennai Super Kings,Virat Kohli,0,Yuzvendra Chahal,0,5
+92,2021,Delhi Capitals,Chennai Super Kings,Suresh Raina,1,Jasprit Bumrah,0,7
+92,2021,Delhi Capitals,Chennai Super Kings,MS Dhoni,1,Lasith Malinga,0,2
+92,2021,Delhi Capitals,Chennai Super Kings,AB de Villiers,0,Yuzvendra Chahal,1,4
+92,2021,Delhi Capitals,Chennai Super Kings,Rohit Sharma,0,Jasprit Bumrah,0,4
+92,2021,Delhi Capitals,Chennai Super Kings,AB de Villiers,1,Amit Mishra,1,4
+93,2020,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,6,Jasprit Bumrah,0,1
+93,2020,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,1,Yuzvendra Chahal,0,3
+93,2020,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,1,Jasprit Bumrah,0,6
+93,2020,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Jasprit Bumrah,0,7
+93,2020,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,0,Jasprit Bumrah,0,6
+93,2020,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,1,Amit Mishra,0,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,Shikhar Dhawan,4,Yuzvendra Chahal,0,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Yuzvendra Chahal,0,7
+93,2020,Kolkata Knight Riders,Mumbai Indians,AB de Villiers,1,Lasith Malinga,1,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,4,Ravichandran Ashwin,0,4
+93,2020,Kolkata Knight Riders,Mumbai Indians,Rohit Sharma,4,Amit Mishra,0,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,1,Yuzvendra Chahal,0,4
+93,2020,Kolkata Knight Riders,Mumbai Indians,Suresh Raina,0,Ravichandran Ashwin,0,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,MS Dhoni,2,Amit Mishra,0,2
+93,2020,Kolkata Knight Riders,Mumbai Indians,Virat Kohli,6,Lasith Malinga,0,1
+94,2021,Delhi Capitals,Delhi Capitals,MS Dhoni,0,Yuzvendra Chahal,0,3
+94,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,0,Amit Mishra,0,3
+94,2021,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,2,Yuzvendra Chahal,0,5
+94,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,5
+94,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,2,Amit Mishra,0,7
+94,2021,Delhi Capitals,Delhi Capitals,Virat Kohli,1,Yuzvendra Chahal,0,2
+94,2021,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,6,Yuzvendra Chahal,0,1
+94,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Yuzvendra Chahal,0,2
+94,2021,Delhi Capitals,Delhi Capitals,MS Dhoni,2,Amit Mishra,0,7
+94,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Yuzvendra Chahal,0,3
+94,2021,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Yuzvendra Chahal,1,5
+94,2021,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,4
+94,2021,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Yuzvendra Chahal,0,2
+94,2021,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,1,6
+94,2021,Delhi Capitals,Delhi Capitals,Virat Kohli,2,Yuzvendra Chahal,1,4
+95,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,2,Ravichandran Ashwin,1,4
+95,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,4,Ravichandran Ashwin,0,5
+95,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Lasith Malinga,0,3
+95,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,0,Lasith Malinga,0,7
+95,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Jasprit Bumrah,0,2
+95,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,6,Lasith Malinga,0,7
+95,2022,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Lasith Malinga,0,5
+95,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Jasprit Bumrah,0,5
+95,2022,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,7
+95,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,4,Ravichandran Ashwin,0,3
+95,2022,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Amit Mishra,0,5
+95,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,4,Yuzvendra Chahal,1,4
+95,2022,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Ravichandran Ashwin,0,3
+95,2022,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0,Jasprit Bumrah,0,7
+95,2022,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Ravichandran Ashwin,1,4
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,2,Lasith Malinga,1,7
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,4,Ravichandran Ashwin,1,5
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,2,Ravichandran Ashwin,0,2
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,1,Yuzvendra Chahal,0,1
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Lasith Malinga,0,3
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Jasprit Bumrah,1,4
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Ravichandran Ashwin,0,6
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Amit Mishra,0,6
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Yuzvendra Chahal,0,2
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Ravichandran Ashwin,0,1
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,4,Amit Mishra,0,2
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Lasith Malinga,1,7
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,0,Ravichandran Ashwin,0,1
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,4,Jasprit Bumrah,0,4
+96,2021,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,0,Lasith Malinga,0,2
+97,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Ravichandran Ashwin,1,1
+97,2019,Delhi Capitals,Delhi Capitals,MS Dhoni,6,Ravichandran Ashwin,0,3
+97,2019,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,1,Ravichandran Ashwin,0,6
+97,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Yuzvendra Chahal,0,5
+97,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,1,Lasith Malinga,1,5
+97,2019,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Amit Mishra,1,5
+97,2019,Delhi Capitals,Delhi Capitals,MS Dhoni,1,Yuzvendra Chahal,0,6
+97,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,6
+97,2019,Delhi Capitals,Delhi Capitals,Suresh Raina,0,Ravichandran Ashwin,1,4
+97,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,0,Lasith Malinga,0,2
+97,2019,Delhi Capitals,Delhi Capitals,Virat Kohli,2,Ravichandran Ashwin,0,4
+97,2019,Delhi Capitals,Delhi Capitals,AB de Villiers,0,Jasprit Bumrah,1,5
+97,2019,Delhi Capitals,Delhi Capitals,Rohit Sharma,1,Ravichandran Ashwin,0,6
+97,2019,Delhi Capitals,Delhi Capitals,Rohit Sharma,4,Yuzvendra Chahal,0,3
+97,2019,Delhi Capitals,Delhi Capitals,Shikhar Dhawan,0,Jasprit Bumrah,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Lasith Malinga,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,0,Ravichandran Ashwin,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,6,Amit Mishra,0,6
+98,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,0,Amit Mishra,0,7
+98,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,4,Amit Mishra,0,3
+98,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Lasith Malinga,0,7
+98,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,1,Yuzvendra Chahal,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Yuzvendra Chahal,0,3
+98,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,1,Amit Mishra,0,3
+98,2022,Chennai Super Kings,Delhi Capitals,Shikhar Dhawan,0,Yuzvendra Chahal,0,2
+98,2022,Chennai Super Kings,Delhi Capitals,AB de Villiers,1,Lasith Malinga,1,3
+98,2022,Chennai Super Kings,Delhi Capitals,Suresh Raina,1,Ravichandran Ashwin,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,0,Ravichandran Ashwin,0,7
+98,2022,Chennai Super Kings,Delhi Capitals,MS Dhoni,1,Ravichandran Ashwin,0,4
+98,2022,Chennai Super Kings,Delhi Capitals,Rohit Sharma,2,Ravichandran Ashwin,0,6
+99,2022,Mumbai Indians,Mumbai Indians,MS Dhoni,0,Yuzvendra Chahal,0,3
+99,2022,Mumbai Indians,Mumbai Indians,Virat Kohli,0,Lasith Malinga,0,6
+99,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Amit Mishra,0,5
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,1,Ravichandran Ashwin,0,7
+99,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,6,Amit Mishra,0,6
+99,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,0,Lasith Malinga,0,5
+99,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,2,Lasith Malinga,0,1
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,4,Jasprit Bumrah,1,4
+99,2022,Mumbai Indians,Mumbai Indians,Shikhar Dhawan,6,Yuzvendra Chahal,0,5
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Yuzvendra Chahal,0,4
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,4,Ravichandran Ashwin,0,3
+99,2022,Mumbai Indians,Mumbai Indians,Suresh Raina,2,Jasprit Bumrah,0,7
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,0,Yuzvendra Chahal,0,4
+99,2022,Mumbai Indians,Mumbai Indians,AB de Villiers,1,Ravichandran Ashwin,0,4
+99,2022,Mumbai Indians,Mumbai Indians,Rohit Sharma,2,Jasprit Bumrah,0,4
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,6,Lasith Malinga,0,3
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Ravichandran Ashwin,0,2
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,2,Jasprit Bumrah,0,2
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,0,Yuzvendra Chahal,0,6
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Lasith Malinga,0,7
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,1,Amit Mishra,0,7
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,0,Yuzvendra Chahal,0,6
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,0,Yuzvendra Chahal,0,2
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Suresh Raina,6,Lasith Malinga,0,4
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,6,Yuzvendra Chahal,1,2
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Shikhar Dhawan,1,Yuzvendra Chahal,1,5
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Amit Mishra,0,5
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,MS Dhoni,1,Jasprit Bumrah,0,1
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,1,Ravichandran Ashwin,0,1
+100,2019,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,1,Lasith Malinga,1,7
